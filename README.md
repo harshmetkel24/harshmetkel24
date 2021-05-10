@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshmetkel24
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning ExpressJS
 - 📫 You can contact me through LinkedIn. My profile link is https://www.linkedin.com/in/harshkumar-metkel-9a44731b6.
 
 <!---
