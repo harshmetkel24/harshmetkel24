@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I’m <a href="https://github.com/harshmetkel24/harshmetkel24">Harshkumar Metkel</a></h1>
+<h1 align="center"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"> I’m <a href="https://github.com/harshmetkel24/harshmetkel24">Harshkumar Metkel</a></h1>
 <li>
   <h2>I am a Full Stack MERN developer</h2>
 </li>
