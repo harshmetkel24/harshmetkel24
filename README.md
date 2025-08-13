@@ -1,32 +1,60 @@
-## Hi there! 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=harshmetkel24&color=red&style=flat-square" alt="Profile views"/>
+</div>
 
-![](https://komarev.com/ghpvc/?username=harshmetkel24&color=red)
+<div align="center">
+  <h1 align="center">Hi there, I'm Harsh 👋</h1>
+  <p align="center">A passionate developer turning ideas into digital experiences.</p>
+</div>
 
-### 📫 Contact me:
+---
 
+<div align="center">
+
+### 🤝 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/harshkumar-metkel-9a44731b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://www.twitter.com/harshmetkel24"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+  <a href="https://www.linkedin.com/in/harshkumar-metkel-9a44731b6/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.twitter.com/harshmetkel24" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 </p>
 
-## 🔧 Tools & Technologies I worked with
+<br>
+
+### 🛠️ My Core Tech Stack
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br>
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## &#x1f4c8; GitHub Stats
-![harshmetkel24's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshmetkel24&show_icons=true&theme=dracula&count_private=true)
+<br>
+
+### 🌱 What I'm Exploring Next
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="AI / ML" src="https://img.shields.io/badge/AI%20/%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+<br>
+
+### 📊 My GitHub Stats
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmetkel24&layout=compact&theme=dracula&hide_border=true" alt="Harsh's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshmetkel24&show_icons=true&theme=dracula&count_private=true&hide_border=true&rank_icon=github" alt="Harsh's GitHub Stats" />
+</p>
+
+<br>
+
+### 🐍 My Contribution Graph
+<p>
+  <img src="https://github.com/harshmetkel24/harshmetkel24/blob/output/github-contribution-grid-snake.svg" alt="Harsh's contribution snake" />
+</p>
+
+</div>
