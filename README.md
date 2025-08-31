@@ -52,9 +52,5 @@
 
 <br>
 
-### 🐍 My Contribution Graph
-<p>
-  <img src="https://github.com/harshmetkel24/harshmetkel24/blob/output/github-contribution-grid-snake.svg" alt="Harsh's contribution snake" />
-</p>
 
 </div>
